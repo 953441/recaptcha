@@ -1,7 +1,7 @@
 // file: script.js
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyCpCix5hFAkSmEGRRF1k2y7hLW69d-awNQ",
+   apiKey: "AIzaSyCpCix5hFAkSmEGRRF1k2y7hLW69d-awNQ",
     authDomain: "project-5144421349869451509.firebaseapp.com",
     databaseURL: "https://project-5144421349869451509.firebaseio.com",
     projectId: "project-5144421349869451509",
